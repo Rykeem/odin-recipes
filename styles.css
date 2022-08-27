@@ -1,0 +1,22 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: lightblue;
+}
+
+.list, h1{
+    text-align:left;
+    font-weight: 800;
+}
+
+h1{color:darkblue
+    
+
+}
+
+img{
+    height:auto;
+    width:auto;
+}

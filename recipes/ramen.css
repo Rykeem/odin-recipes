@@ -1,0 +1,17 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: lightblue;
+}
+
+
+h1{
+    color:darkblue;
+}
+
+img{
+    height:fit-content;
+    width: 400px;
+}
